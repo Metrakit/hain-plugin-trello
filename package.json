@@ -1,0 +1,30 @@
+{
+  "name": "hain-plugin-trello",
+  "version": "0.0.1",
+  "description": "Search your Trello cards in Hain !",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metrakit/hain-plugin-trello.git"
+  },
+  "author": "Jordane JOUFFROY",
+  "license": "MIT",
+  "keywords": [
+    "hain0"
+  ],
+  "bugs": {
+    "url": "https://github.com/metrakit/hain-plugin-trello/issues"
+  },
+  "homepage": "https://github.com/metrakit/hain-plugin-trello",
+  "dependencies": {
+    "lodash": "^4.6.1",
+    "node-trello": "^1.1.2"
+  },
+  "hain": {
+    "prefix": "/trello",
+    "usage": "/trello a card",
+    "redirect": "/trello ",
+    "icon": "/icon.png"
+  }
+}
+ 
