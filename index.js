@@ -63,7 +63,7 @@ module.exports = (pluginContext) => {
         if (payload !== 'open') {
             return;
         }
-        if (card !== "error") {
+        if (card !== "error" && card !== "__temp") {
           shell.openExternal(card.url);
         }
     }
