@@ -1,5 +1,9 @@
 # hain-plugin-trello
 
+[![npm](https://img.shields.io/npm/dt/hain-plugin-trello.svg)](https://www.npmjs.com/package/hain-plugin-trello
+) [![npm](https://img.shields.io/npm/dm/hain-plugin-trello.svg)](https://www.npmjs.com/package/hain-plugin-trello
+) [![GitHub release](https://img.shields.io/github/release/metrakit/hain-plugin-trello.svg)](https://www.npmjs.com/package/hain-plugin-trello)
+
 A [Hain](https://github.com/appetizermonster/hain) plugin for find your Tello cards.
 
 This plugin allow you to find your cards from [Trello](http://trello.com) in Hain. 
